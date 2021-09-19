@@ -39,4 +39,6 @@ jobs:
           cd ../luadec
           make LUAVER=5.1
       - name: Compile
-        run: luadec -pn script.lua
+        run: |
+          cd luadec
+          .\luadec -pn script.lua
