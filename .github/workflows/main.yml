@@ -30,7 +30,6 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Setup
         run: |
-          git clone https://github.com/viruscamp/luadec
           cd luadec
           git submodule update --init lua-5.1
           cd lua-5.1
