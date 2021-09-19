@@ -1,7 +1,7 @@
 Overview
 ========
 
-LuaDec is a Lua decompiler for lua 5.1 , and experimental for lua 5.2 and 5.3.
+LuaDec is a Lua decompiler for lua 5.1 , and experimental for lua 5.2 and 5.3. 
 
 It is based on Hisham Muhammad's luadec which targeted lua 5.0.x and LuaDec51 by Zsolt Sz. Sztupak.
 
